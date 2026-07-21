@@ -1,8 +1,10 @@
 
-<img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/c542e97f-1032-4574-978e-68cea98b650b" />
-<img width="425" height="320" alt="image" src="https://github.com/user-attachments/assets/121f219f-2190-422e-9b38-7b6df4bbf910" />
 
+<img width="500" height="370" alt="image" src="https://github.com/user-attachments/assets/f5cde553-17f6-4ad7-8b62-b9698621a8dd" />
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/178225be-8723-4553-a26f-e5a16aba2093" />
+
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/a8bf6871-a5f1-4ffd-a119-f61aa91f71e6" />
 
 <!--
 **abrilreynadominguez/abrilreynadominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
