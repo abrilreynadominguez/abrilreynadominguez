@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/604618d0-01a4-4144-ac45-036e0ab7b295" />
+
+
 <!--
 **abrilreynadominguez/abrilreynadominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
